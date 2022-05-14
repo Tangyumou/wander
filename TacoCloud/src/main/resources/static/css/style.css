@@ -1,0 +1,10 @@
+.ingredient-group{
+    float: left;
+    width: 600px;
+}
+.nameTaco{
+    clear: left;
+}
+.validationError{
+    color: red;
+}
